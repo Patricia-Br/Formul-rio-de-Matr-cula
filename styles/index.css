@@ -1,3 +1,4 @@
+@import url(fields/index.css);
 /* global //////////////////////////////// */
 *{
   margin: 0;
@@ -111,3 +112,35 @@ aside{
 /* / */
 /* / */
 /* / */
+
+/* forms  */
+/* lembrar de pegar o import la em cima */
+form{
+  margin-top: 3rem;
+
+}
+
+fieldset{
+  border: none;
+
+  display: grid;
+  gap: 1.5rem;
+
+}
+
+legend{
+  font: 600 1rem/1.25rem var(--font-family);
+  margin-bottom: 1.5rem;
+}
+
+
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+
