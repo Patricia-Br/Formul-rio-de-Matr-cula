@@ -74,7 +74,6 @@ img{
 main{
   overflow: auto;
   padding: 4rem;
-  background-color: rgb(1, 1, 26);
   
   & .main-container{
     max-width: 33rem;
